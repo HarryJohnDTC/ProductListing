@@ -155,8 +155,8 @@ class ProductListing extends StatelessWidget {
                   Expanded(
                       flex: 2,
                       child: Container(
-                          decoration: BoxDecoration(
-                              color: const Color.fromARGB(255, 30, 170, 65)),
+                          decoration: const BoxDecoration(
+                              color: Color.fromARGB(255, 30, 170, 65)),
                           padding: const EdgeInsets.all(8.0),
                           child: const Center(
                             child: Text(
@@ -216,8 +216,8 @@ class ProductListing extends StatelessWidget {
                   Expanded(
                       flex: 2,
                       child: Container(
-                          decoration: BoxDecoration(
-                              color: const Color.fromARGB(255, 206, 176, 8)),
+                          decoration: const BoxDecoration(
+                              color: Color.fromARGB(255, 206, 176, 8)),
                           padding: const EdgeInsets.all(8.0),
                           child: const Center(
                             child: Text(
@@ -277,8 +277,8 @@ class ProductListing extends StatelessWidget {
                   Expanded(
                       flex: 2,
                       child: Container(
-                          decoration: BoxDecoration(
-                              color: const Color.fromARGB(255, 138, 42, 4)),
+                          decoration: const BoxDecoration(
+                              color: Color.fromARGB(255, 138, 42, 4)),
                           padding: const EdgeInsets.all(8.0),
                           child: const Center(
                             child: Text(
